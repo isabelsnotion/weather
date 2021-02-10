@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/51d740d47/chelmsford/" data-label_1="CHELMSFORD" data-label_2="WEATHER" data-theme="beige" data-basecolor="#e6c7c2" data-textcolor="#5e524c" data-highcolor="#5e524c" data-lowcolor="#5e524c" data-suncolor="#5e524c" data-mooncolor="#5e524c" data-cloudcolor="#5e524c" data-raincolor="#5e524c" data-snowcolor="#5e524c" >CHELMSFORD WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
